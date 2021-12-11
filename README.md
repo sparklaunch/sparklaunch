@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @sparklaunch aka Jinwook Kim.
-- 👀 I’m interested in iOS and Flutter application development.
-- 🌱 I’m currently learning iOS and Flutter application development.
-- 💞️ I’m looking to collaborate on iOS and Flutter application development.
-- 📫 How to reach me: contact me at redwoodnatlpark@gmail.com
-
-<!---
-sparklaunch/sparklaunch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! Nice to meet you guys! My name is Jinwook Kim from South Korea. I live in Seoul, the capital of the country. I'm skilled at a variety of technologies ranging from web development to data science. I speak both Korean and English fluently. Please contact me at redwoodnatlpark@gmail.com. :)
