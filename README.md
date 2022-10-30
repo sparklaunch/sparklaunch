@@ -2,8 +2,6 @@
 
 📧 [redwoodnatlpark@gmail.com](mailto:redwoodnatlpark@gmail.com)
 
-📱 [010-4594-2945](tel:010-4594-2945)
-
 👨‍💻 [https://github.com/sparklaunch](https://github.com/sparklaunch)
 
 # 핵심 경험.
