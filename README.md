@@ -26,8 +26,6 @@ useEffect(() => {
 
 # 프로젝트 경험.
 
-![뚜벅하우까 썸네일.png](Up-to-date%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1,%20%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%AE%E1%86%A8%20280ebe2ac8a9493f91e3acbf555cc799/%25EB%259A%259C%25EB%25B2%2585%25ED%2595%2598%25EC%259A%25B0%25EA%25B9%258C_%25EC%258D%25B8%25EB%2584%25A4%25EC%259D%25BC.png)
-
 - 뚜벅하우까 (Ddubeoghaukka) - 제주도 뚜벅이들을 위한 여행 정보 제공, 일정 짜기 서비스.
     
     [https://github.com/duha-dubeoghaukka/duha-frontend](https://github.com/duha-dubeoghaukka/duha-frontend)
